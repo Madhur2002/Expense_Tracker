@@ -11,7 +11,7 @@ After cloning the repo open it in a IDE
 
 Then simply insatall the node modules using the command:
 npm i
-type the above command in your terminal
+
 
 Then run the react app using npm start, it would open on localhost:8000
 
